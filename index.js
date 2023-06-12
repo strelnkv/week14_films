@@ -1,21 +1,3 @@
-// function printEven(arr) {
-//   arr.forEach((x, i) => {
-//     if (i % 2 === 0) {
-//       console.log(x);
-//     }
-//   });
-// }
-// printEven([1, 2, 3, 4, 5, 6, 7]);
-
-// function square(arr) {
-//   arr.forEach((x) => {
-//     document.createElement('div');
-//let m = document.createElement('h2');
-//m.innerHtml
-//   });
-// }
-// square([4, 8, 15]);
-
 const arr = [
   {
     name: "Стивен Спилберг",
